@@ -1,0 +1,1 @@
+console.log("THis is example1's console");
